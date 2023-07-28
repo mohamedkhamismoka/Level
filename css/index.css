@@ -682,9 +682,6 @@ nav .container {
     .blog .description>div {
         flex-direction: column;
     }
-    .blog .description>div img {
-        height: 280px;
-    }
     .contact .form {
         margin-top: 80px;
     }
