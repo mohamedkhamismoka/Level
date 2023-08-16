@@ -593,11 +593,13 @@ nav .container {
 
 .footer .container p {
     white-space: nowrap;
+    margin-bottom: 0;
 }
 
 .footer span {
     color: var(--maincolor);
     font-size: 15px;
+    vertical-align: middle;
 }
 
 
